@@ -2,6 +2,8 @@
 
 BiOrbit: Sustainable Blockchain Hackathon - Boston
 
+### BiOrbit - SBS: https://devpost.com/software/biorbit
+
 ### BiOrbit - contracts:
 
 Repository url: https://github.com/salviega/BiOrbit-hardhat
