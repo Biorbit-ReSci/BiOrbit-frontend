@@ -57,3 +57,5 @@ yarn start
 [Oriojas’s](https://github.com/Oriojas)
 
 [salviega](https://github.com/salviega)
+
+[jhontejada95](https://github.com/jhontejada95)
